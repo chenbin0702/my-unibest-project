@@ -8,7 +8,10 @@
 </route>
 
 <template>
-  <view class="pt-40 text-xl text-center text-green-500">我的页面</view>
+  <view class="pt-40 text-xl text-center text-green-500">
+    我的页面
+    <view class="text-green">测试修改</view>
+  </view>
 </template>
 
 <script lang="ts" setup>
